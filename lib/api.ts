@@ -11,7 +11,7 @@ import type {
   UserStats,
 } from "./types"
 
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000/api"
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://eco-backend-4izx.onrender.com/api"
 const TOKEN_KEY = "ecohabits_token"
 
 /** Error carrying the HTTP status and the API's own message. */
