@@ -16,6 +16,8 @@ export default function HomePage() {
         <TasksSection />
         <LeaderboardSection />
         <AboutSection />
+
+        {/* aa */}
       </main>
       <Footer />
     </div>
